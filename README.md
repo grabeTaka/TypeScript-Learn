@@ -1,2 +1,6 @@
 # TypeScript-Learn
-Folders with projects with propouse to learn more about Typescript
+Project 01
+Show how to initialize typescript project
+
+Projext 02
+Show how to type simple constants and let
