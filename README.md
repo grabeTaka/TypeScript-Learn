@@ -26,4 +26,19 @@
 <h5>Project 09</h5>
 <code>Work more with never type in typescript.</code>
 
+<h5>Project 10</h5>
+<code>Study diference about const and let</code>
+
+<h5>Project 11</h5>
+<code>Study about function as parameter</code>
+
+<h5>Project 12</h5>
+<code>Study about arrow functions</code>
+
+<h5>Project 13</h5>
+<code>Study about objects and arrays deconstruct</code>
+
+<h5>Project 13</h5>
+<code>Study about objects and arrays deconstruct</code>
+
 
