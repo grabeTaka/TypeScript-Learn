@@ -38,7 +38,21 @@
 <h5>Project 13</h5>
 <code>Study about objects and arrays deconstruct</code>
 
-<h5>Project 13</h5>
-<code>Study about objects and arrays deconstruct</code>
+<h5>Project 14</h5>
+<code>Study about deconstruct array as parameter.</code>
 
+<h5>Project 16</h5>
+<code>Study about class with typescript</code>
+
+<h5>Project 17</h5>
+<code>Study about constructor method and custom methods in class</code>
+
+<h5>Project 18</h5>
+<code>Study about shorter attributes definition in class.</code>
+
+<h5>Project 19</h5>
+<code>Study about private and public attributes.</code>
+
+<h5>Project 20</h5>
+<code>Study about extends class in typescript.</code>
 
