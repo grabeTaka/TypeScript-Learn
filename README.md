@@ -56,3 +56,18 @@
 <h5>Project 20</h5>
 <code>Study about extends class in typescript.</code>
 
+<h5>Project 21</h5>
+<code>Study about extends class in typescript and protected attributes.</code>
+
+<h5>Project 22</h5>
+<code>Study about extends class in typescript and protected attributes and métthods.</code>
+
+<h5>Project 23</h5>
+<code>Start study about interfaces typescript</code>
+
+<h5>Project 24</h5>
+<code>Start study about extends interfaces in typescript</code>
+
+<h5>Project 25</h5>
+<code>Use interface in class</code>
+
