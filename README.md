@@ -71,3 +71,21 @@
 <h5>Project 25</h5>
 <code>Use interface in class</code>
 
+<h5>Project 26</h5>
+<code>Use casting type in typescript</code>
+
+<h5>Project 27</h5>
+<code>Use index properties in typescript</code>
+
+<h5>Project 28</h5>
+<code>Use optional chaining</code>
+
+<h5>Project 29</h5>
+<code>Use optional chaining</code>
+
+<h5>Project 30</h5>
+<code>Use optional chaining</code>
+
+<h5>Project 31</h5>
+<code>Start using decorator in typescript</code>
+
