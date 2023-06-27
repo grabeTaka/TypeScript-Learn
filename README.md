@@ -1,4 +1,4 @@
-# TypeScript-Learn
+# TypeScript Learn
 <h5>Project 01</h5>
 <code>Show how to initialize typescript project. </code>
 
